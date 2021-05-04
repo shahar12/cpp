@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/DataStructFile.h
+File.h
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/File.h
+
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/File.h
+FileCharProxy.h
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/FileCharProxy.h
+
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/FileCharProxy.h
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+string.h
+-
+
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/Main.cpp
+System.h
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/System.h
+
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/System.cpp
+System.h
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/System.h
+
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/System.h
+algorithm
+-
+DataStructFile.h
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/DataStructFile.h
+cctype
+-
+

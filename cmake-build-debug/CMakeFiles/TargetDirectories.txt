@@ -1,0 +1,3 @@
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/shahar/CLionProjects/ex1_cpp-test/11_ex5_314670274/cmake-build-debug/CMakeFiles/11_ex5_314670274.dir

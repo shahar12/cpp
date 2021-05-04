@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/11_ex5_314670274.dir/DataStructFile.cpp.o CMakeFiles/11_ex5_314670274.dir/File.cpp.o CMakeFiles/11_ex5_314670274.dir/Main.cpp.o CMakeFiles/11_ex5_314670274.dir/System.cpp.o  -o 11_ex5_314670274.exe -Wl,--out-implib,lib11_ex5_314670274.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
